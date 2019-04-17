@@ -46,7 +46,6 @@ node_modules/
 .netlify
 
 # IDE specific
-.idea/
 .vscode/
 *.sw*
 
