@@ -31,7 +31,7 @@ const QQmusic = ({ ...props }) => (
           <Image
             m={10}
             p={10}
-            src="https://globalrevgen.com/wp-content/uploads/2017/06/qq-music.png"
+            src="https://github.com/Rezhe/Music-Marketing-Tools/blob/master/src/assets/qq-music.png?raw=true"
           />
         </Box>
         <p

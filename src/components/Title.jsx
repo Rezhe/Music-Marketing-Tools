@@ -16,7 +16,7 @@ const Title = ({ ...props }) => (
         <Image
           m={10}
           p={10}
-          src="https://raw.githubusercontent.com/Rezhe/Music-Marketing-Tool/master/src/assets/funsun.png"
+          src="https://github.com/Rezhe/Music-Marketing-Tools/blob/master/src/assets/mmt.png?raw=true"
         />
       </Box>
       <Box mr={10} />

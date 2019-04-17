@@ -33,7 +33,7 @@ const NetEase = ({ ...props }) => (
             <Image
               m={10}
               p={10}
-              src="https://bang.wallstreetcn.com/OTY2MzgxMjI0"
+              src="https://github.com/Rezhe/Music-Marketing-Tools/blob/master/src/assets/NetEase.png?raw=true"
             />
           </Box>
         </a>

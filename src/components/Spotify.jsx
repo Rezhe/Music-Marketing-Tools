@@ -32,7 +32,7 @@ const Spotify = ({ ...props }) => (
             <Image
               m={10}
               p={10}
-              src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png"
+              src="https://github.com/Rezhe/Music-Marketing-Tools/blob/master/src/assets/Spotify.png?raw=true"
             />
           </Box>
         </a>

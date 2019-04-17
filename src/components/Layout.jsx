@@ -19,12 +19,12 @@ const Favicons = props => (
     <link
       rel="apple-touch-icon"
       sizes="152x152"
-      href="https://raw.githubusercontent.com/Rezhe/Music-Marketing-Tool/master/src/assets/websun.png"
+      href="https://github.com/Rezhe/Music-Marketing-Tools/blob/master/src/assets/websun.png?raw=true"
     />
     <link
       rel="icon"
       type="image/png"
-      href="https://raw.githubusercontent.com/Rezhe/Music-Marketing-Tool/master/src/assets/websun.png"
+      href="https://github.com/Rezhe/Music-Marketing-Tools/blob/master/src/assets/websun.png?raw=true"
     />
   </Helmet>
 );
